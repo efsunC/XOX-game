@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Tic_Tac_Toe.h"
+#include "xox.h"
 
 int main() {
 	start_Game();
